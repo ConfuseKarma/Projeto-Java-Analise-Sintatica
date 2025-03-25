@@ -21,7 +21,7 @@ Este projeto tem como objetivo a implementação de um analisador sintático (pa
   
 ## Gramática
 
-O grupo 10 trabalhou com a **gramática de comandos de repetição**:
+Nosso grupo, número 10 trabalhou com a **gramática de comandos de repetição**:
 
 ```bnf
 S → while ( E ) S | id = E
